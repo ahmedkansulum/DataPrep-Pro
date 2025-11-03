@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-2.0.0-orange)
 
-A comprehensive desktop application for data cleaning, preprocessing, feature engineering, and encoding - designed for data science students, data analysts, and machine learning professionals.
+A comprehensive application for data cleaning, preprocessing, feature engineering, and encoding - designed for data science students, data analysts, and machine learning professionals.
 
 ## 🚀 Features
 
